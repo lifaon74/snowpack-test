@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@lifaon/hello-world": "./@lifaon/hello-world.js"
+  }
+}
